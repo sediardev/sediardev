@@ -57,7 +57,7 @@ Ayudo a empresas y emprendedores a convertir ideas en aplicaciones web robustas.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sediardev&theme=darkhub&row=1&no-frame=true" />
+  <img src="https://github-trophies.vercel.app/?username=sediardev&theme=darkhub&row=1&no-frame=true" />
 </p>
 
 ---
