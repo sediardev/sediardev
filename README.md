@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hola, soy Sebastian Diaz Arrieta 👋
 
-<!--
-**sediardev/sediardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full-Stack** · +6 años construyendo productos digitales rápidos, escalables y mantenibles.
 
-Here are some ideas to get you started:
+Ayudo a empresas y emprendedores a convertir ideas en aplicaciones web robustas. Me interesa comprender el problema antes de plantear una solución, evaluando alternativas y priorizando las que aporten valor práctico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| [**BedViajes**](https://bedviajes.com/) | Plataforma para publicar y gestionar propiedades vacacionales con reservas confiables |
+| [**BestBooking**](https://bestbooking.com.co/) | Solución web que conecta clientes con hoteles, tours y alojamientos turísticos |
+| [**Transito App**](https://transitoapp.co/) | Aplicación web para modernizar la gestión del tránsito en Colombia |
+| [**Diez Equis**](https://diezequis.com/) | Sitio corporativo para distribuidor de insumos Food Service, institucional y HORECA |
+
+---
+
+## 🛠️ Stack tecnológico
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 💡 Habilidades
+
+- Migración progresiva de sistemas legacy
+- Diseño de procesos backend sostenibles
+- Integración de plataformas y servicios externos
+- Automatización de flujos y sincronización de datos
+- Desarrollo orientado a operación crítica
+- Colaboración técnica y decisiones de arquitectura
+
+---
+
+## 📬 Contacto
+
+[![Portfolio](https://img.shields.io/badge/sediar.dev-05070f?style=flat&logo=google-chrome&logoColor=white)](https://sediar.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-diaz-arrieta-859384209/)
+[![Email](https://img.shields.io/badge/sediardev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sediardev@gmail.com)
