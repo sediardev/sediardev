@@ -45,6 +45,13 @@ Ayudo a empresas y emprendedores a convertir ideas en aplicaciones web robustas.
 
 ---
 
+## 🐍 Contribuciones
+
+![snake](https://raw.githubusercontent.com/sediardev/sediardev/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/sediardev/sediardev/output/snake-dark.svg#gh-dark-mode-only)
+
+---
+
 ## 📬 Contacto
 
 [![Portfolio](https://img.shields.io/badge/sediar.dev-05070f?style=flat&logo=google-chrome&logoColor=white)](https://sediar.dev/)
