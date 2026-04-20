@@ -45,10 +45,29 @@ Ayudo a empresas y emprendedores a convertir ideas en aplicaciones web robustas.
 
 ---
 
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sediardev&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sediardev&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sediardev&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sediardev&theme=darkhub&row=1&no-frame=true" />
+</p>
+
+---
+
 ## 🐍 Contribuciones
 
-![snake](https://raw.githubusercontent.com/sediardev/sediardev/output/snake.svg#gh-light-mode-only)
-![snake](https://raw.githubusercontent.com/sediardev/sediardev/output/snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sediardev/sediardev/output/snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/sediardev/sediardev/output/snake-dark.svg#gh-dark-mode-only" />
+</p>
 
 ---
 
